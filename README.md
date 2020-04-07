@@ -27,6 +27,8 @@ Syntax highlighted code block\
 
 [Link](url) and ![Image](https://secure.meetupstatic.com/photos/member/9/7/d/3/member_289478867.jpeg)
 ```
+![Image](https://secure.meetupstatic.com/photos/member/9/7/d/3/member_289478867.jpeg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
